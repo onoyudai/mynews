@@ -1,6 +1,4 @@
-{{-- 次の1行を削除 --}}
-        <link href="{{ secure_asset('css/admin.css') }}" rel="stylesheet">
-        {{-- 次の1行を追記 --}}
+
         <link href="{{ secure_asset('css/profile.css') }}" rel="stylesheet">
         
         {{-- layouts/admin.blade.phpを読み込む --}}
